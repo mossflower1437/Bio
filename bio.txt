@@ -1,0 +1,3 @@
+Professional Biography
+
+Hi, my name is Taylor Sun and I am currently a student at Seattle Central College. I am working towards a degree in computer sciences , specifically on the programming track. I have attended Seattle Central for 2 years now and have gained a lot of experience learning about coding. I have taken courses in Python, Java, Javascript, HTML, CSS, and currently am learning PHP. Thanks for stopping by to my bio!
